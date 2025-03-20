@@ -2,7 +2,7 @@
 
 ## 🚀 Professional Summary
 
-Senior Software Engineer with extensive experience in Microservices architectures, contributing to enterprise-level projects at organizations including Fannie Mae, Fidelity, NFCU, Cisco, IBM, and Harvard University.
+Senior Software Engineer with extensive experience in Microservices architectures, contributing to enterprise-level projects at organizations including Fannie Mae, IBM< Fidelity, NFCU, Cisco and Harvard University.
 
 - **Microservices Expert**: Proficient in Python, Go, Docker, Kubernetes with Helm, AWS Cloud (ECS, DynamoDB, S3), Java 17+, Spring Boot, and Reactive Java, specializing in event-driven architectures.
   
@@ -29,7 +29,6 @@ Senior Software Engineer with extensive experience in Microservices architecture
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -65,8 +64,8 @@ Senior Software Engineer with extensive experience in Microservices architecture
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YourLinkedInUsername/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kamenani/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.skjobs777@gmail.com)
 
 ---
 
